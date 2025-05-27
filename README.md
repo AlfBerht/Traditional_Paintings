@@ -1,4 +1,4 @@
-#Traditional_Paintings
+# Traditional Paintings
 
 Hi! In this repository I will be adding my paintings that I treasure for one reason or another.
 
